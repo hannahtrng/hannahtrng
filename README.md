@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hannahtrng
-- 👀 I’m interested in UX, full stack designing, web development, and other 
-- 🌱 I’m currently learning Emacs and shell scripting
+- 👋 Hi, my name is Hannah!
+- 👀 I’m interested in software development and technical product management
+- 🌱 I’m currently learning Machine Learning / Genomic Algorithms
 - 💞️ I’m looking to collaborate on any CS projects or websites
 - 📫 How to reach me- Linkedin, email, discord!
 
