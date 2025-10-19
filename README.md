@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Hannah!
 - 👀 I’m interested in software development and technical product management
-- 🌱 I’m currently learning Machine Learning / Genomic Algorithms
-- 💞️ I’m looking to collaborate on any CS projects or websites
+- 🌱 I’m currently learning how to set up cloud servers, system security, and LLM
 - 📫 How to reach me- Linkedin, email, discord!
 
 <!---
